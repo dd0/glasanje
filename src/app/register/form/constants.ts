@@ -529,7 +529,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Crnoj Gori, Podgorica',
       embassyCyr: 'Амбасада Србије у Црној Гори, Подгорица',
-      email: 'еmbassy.podgorica@mfa.rs',
+      email: 'embassy.podgorica@mfa.rs',
     },
   ],
   ],
@@ -976,7 +976,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Ирска',
     }, [
     {
-      embassy: 'Ambasada Srbije u Ujediǌenom Kraǉevstvu',
+      embassy: 'Ambasada Srbije u Ujedinjenom Kraljevstvu',
       embassyCyr: 'Амбасада Србије у Уједињеном Краљевству',
       email: 'izbori2022@serbianembassy.org.uk',
     },
