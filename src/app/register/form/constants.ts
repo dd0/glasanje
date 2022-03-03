@@ -2645,7 +2645,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Уједињено Краљевство',
     }, [
     {
-      embassy: 'Ambasada Srbije u Ujediǌenom Kraǉevstvu',
+      embassy: 'Ambasada Srbije u Ujedinjenom Kraljevstvu',
       embassyCyr: 'Амбасада Србије у Уједињеном Краљевству',
       email: 'izbori2022@serbianembassy.org.uk',
     },
