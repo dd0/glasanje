@@ -92,9 +92,9 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Авганистан',
     }, [
     {
-      embassy: 'Ambasada Srbije u Indiji',
-      embassyCyr: 'Амбасада Србије у Индији',
-      email: 'embassyofserbiadelhi@hotmail.com',
+      embassy: 'Ambasada Srbije u Iranu',
+      embassyCyr: 'Амбасада Србије у Ирану',
+      email: 'serbembteh@neda.net',
     }
   ],
   ],
@@ -177,7 +177,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u SAD, Vašington',
       embassyCyr: 'Амбасада Србије у САД, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -190,7 +190,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Argentini',
       embassyCyr: 'Амбасада Србије у Аргентини',
-      email: 'consuladoserbia@fibertel.com.ar',
+      email: 'consuladoserbiabuenosaires@gmail.com',
     },
   ],
   ],
@@ -203,7 +203,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Austriji, Beč',
       embassyCyr: 'Амбасада Србије у Аустрији, Беч',
-      email: 'izbori.bec2022@mfa.rs',
+      email: 'consulate.vienna@mfa.rs',
     },
     {
       embassy: 'Konzulat Srbije u Austriji, Salcburg',
@@ -234,7 +234,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -273,7 +273,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -286,7 +286,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Belgiji',
       embassyCyr: 'Амбасада Србије у Белгији',
-      email: 'konzularno.brisel@mfa.rs',
+      email: 'izbori.brisel@mfa.rs',
     },
   ],
   ],
@@ -299,7 +299,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -338,7 +338,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Južnoj Africi',
       embassyCyr: 'Амбасада Србије у Јужној Африци',
-      email: 'info@srbembassy.org.za',
+      email: 'konzul@srbembassy.org.za',
     },
   ],
   ],
@@ -351,7 +351,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Argentini',
       embassyCyr: 'Амбасада Србије у Аргентини',
-      email: 'consuladoserbia@fibertel.com.ar',
+      email: 'consuladoserbiabuenosaires@gmail.com',
     },
   ],
   ],
@@ -364,7 +364,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Konzulat Srbije u Bosni i Hercegovini, Banja Luka',
       embassyCyr: 'Конзулат Србије у Босни и Херцеговини, Бања Лука',
-      email: 'srb.cons.banjaluka@mfa.rs',
+      email: 'konzulat.bl@mfa.rs',
     },
     {
       embassy: 'Konzulat Srbije u Bosni i Hercegovini, Drvar',
@@ -377,11 +377,11 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     }, {
       embassy: 'Konzulat Srbije u Bosni i Hercegovini, Trebinje',
       embassyCyr: 'Конзулат Србије у Босни и Херцеговини, Требиње',
-      email: 'srb.cons.trebinje@mfa.rs',
+      email: 'kk.trebinje@mfa.rs',
     }, {
       embassy: 'Ambasada Srbije u Bosni i Hercegovini, Sarajevo',
       embassyCyr: 'Амбасада Србије у Босни и Херцеговини, Сарајево',
-      email: 'srbamba@bih.net.ba',
+      email: 'ambasada.sarajevo@mfa.rs',
     },
   ],
   ],
@@ -407,7 +407,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Indoneziji',
       embassyCyr: 'Амбасада Србије у Индонезији',
-      email: 'embjakarta@serbian-embassy.org',
+      email: 'consular.jakarta@mfa.rs',
     },
   ],
   ],
@@ -420,7 +420,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Bugarskoj',
       embassyCyr: 'Амбасада Србије у Бугарској',
-      email: 'konz.sofia@mfa.rs',
+      email: 'srb.emb.bulgaria@mfa.rs',
     },
   ],
   ],
@@ -470,9 +470,9 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Чад',
     }, [
     {
-      embassy: 'Ambasada Srbije u Tunisu',
-      embassyCyr: 'Амбасада Србије у Тунису',
-      email: 'amb.serbia@gnet.tn',
+      embassy: 'Ambasada Srbije u Kongu, DR',
+      embassyCyr: 'Амбасада Србије у Конгу, ДР',
+      email: 'serbambakin@gmail.com'
     },
   ],
   ],
@@ -498,7 +498,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Češkoj',
       embassyCyr: 'Амбасада Србије у Чешкој',
-      email: 'izbori.prag2022@mfa.rs',
+      email: 'konzularno.prag@mfa.rs',
     },
   ],
   ],
@@ -511,7 +511,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Argentini',
       embassyCyr: 'Амбасада Србије у Аргентини',
-      email: 'consuladoserbia@fibertel.com.ar',
+      email: 'consuladoserbiabuenosaires@gmail.com',
     },
   ],
   ],
@@ -524,12 +524,12 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Konzulat Srbije u Crnoj Gori, Herceg Novi',
       embassyCyr: 'Конзулат Србије у Црној Гори, Херцег Нови',
-      email: 'gkh@mfa.rs',
+      email: 'gkh.novi@mfa.rs',
     },
     {
       embassy: 'Ambasada Srbije u Crnoj Gori, Podgorica',
       embassyCyr: 'Амбасада Србије у Црној Гори, Подгорица',
-      email: 'embassy.podgorica@mfa.rs',
+      email: 'konzularno.podgorica@mfa.rs',
     },
   ],
   ],
@@ -555,7 +555,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -607,7 +607,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Argentini',
       embassyCyr: 'Амбасада Србије у Аргентини',
-      email: 'consuladoserbia@fibertel.com.ar',
+      email: 'consuladoserbiabuenosaires@gmail.com',
     },
   ],
   ],
@@ -646,7 +646,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Finskoj',
       embassyCyr: 'Амбасада Србије у Финској',
-      email: 'office@serbianembassy.fi',
+      email: 'consul@serbianembassy.fi',
     },
   ],
   ],
@@ -685,7 +685,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Indoneziji',
       embassyCyr: 'Амбасада Србије у Индонезији',
-      email: 'embjakarta@serbian-embassy.org',
+      email: 'consular.jakarta@mfa.rs',
     },
   ],
   ],
@@ -698,7 +698,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Finskoj',
       embassyCyr: 'Амбасада Србије у Финској',
-      email: 'office@serbianembassy.fi',
+      email: 'consul@serbianembassy.fi',
     },
   ],
   ],
@@ -711,12 +711,12 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Francuskoj, Pariz',
       embassyCyr: 'Амбасада Србије у Француској, Париз',
-      email: 'izbori.pariz@mfa.rs',
+      email: 'konzularno.pariz@mfa.rs',
     },
     {
       embassy: 'Konzulat Srbije u Francuskoj, Strazbur',
       embassyCyr: 'Конзулат Србије у Француској, Стразбур',
-      email: 'konzulat.strazbur@mfa.rs',
+      email: 'consulate.strasbourg@mfa.rs',
     },
   ],
   ],
@@ -773,7 +773,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Konzulat Srbije u Grčkoj, Solun',
       embassyCyr: 'Конзулат Србије у Грчкој, Солун',
-      email: 'srbcons@otenet.gr',
+      email: 'srb.cons.thessaloniki@mfa.rs',
     },
   ],
   ],
@@ -786,7 +786,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -797,9 +797,9 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Грузија',
     }, [
     {
-      embassy: 'Ambasada Srbije u Ukrajini',
-      embassyCyr: 'Амбасада Србије у Украјини',
-      email: 'konzrs@ukr.net',
+      embassy: 'Ambasada Srbije u Jermeniji',
+      embassyCyr: 'Амбасада Србије у Јерменији',
+      email: 'embserbia.yerevan@gmail.com',
     },
   ],
   ],
@@ -812,7 +812,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -913,7 +913,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Hrvatskoj, Zagreb',
       embassyCyr: 'Амбасада Србије у Хрватској, Загреб',
-      email: 'konzularno@ambasada-srbije.hr',
+      email: 'konzularno.zagreb@mfa.rs',
     },
   ],
   ],
@@ -939,7 +939,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Indoneziji',
       embassyCyr: 'Амбасада Србије у Индонезији',
-      email: 'embjakarta@serbian-embassy.org',
+      email: 'consular.jakarta@mfa.rs',
     },
   ],
   ],
@@ -978,7 +978,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Ujedinjenom Kraljevstvu',
       embassyCyr: 'Амбасада Србије у Уједињеном Краљевству',
-      email: 'izbori2022@serbianembassy.org.uk',
+      email: 'izbori.london@mfa.rs',
     },
   ],
   ],
@@ -991,7 +991,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Norveškoj',
       embassyCyr: 'Амбасада Србије у Норвешкој',
-      email: 'izbori2022@serbianembassy.no',
+      email: 'konzularno@serbianembassy.no',
     },
   ],
   ],
@@ -1004,7 +1004,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Indoneziji',
       embassyCyr: 'Амбасада Србије у Индонезији',
-      email: 'embjakarta@serbian-embassy.org',
+      email: 'consular.jakarta@mfa.rs',
     },
   ],
   ],
@@ -1022,7 +1022,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Italiji, Rim',
       embassyCyr: 'Амбасада Србије у Италији, Рим',
-      email: 'ljubomir.merdovic@mfa.rs',
+      email: 'konzularno.rim@mfa.rs',
     },
     {
       embassy: 'Konzulat Srbije u Italiji, Trst',
@@ -1040,7 +1040,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Izraelu',
       embassyCyr: 'Амбасада Србије у Израелу',
-      email: 'consular.srb@013net.net',
+      email: 'srb.emb.israel@mfa.rs',
     },
   ],
   ],
@@ -1105,7 +1105,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Siriji',
       embassyCyr: 'Амбасада Србије у Сирији',
-      email: 'dkp.beirutconsul@gmail.com',
+      email: 'srb.emb.syria@mfa.rs',
     },
   ],
   ],
@@ -1131,7 +1131,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Južnoj Africi',
       embassyCyr: 'Амбасада Србије у Јужној Африци',
-      email: 'info@srbembassy.org.za',
+      email: 'konzul@srbembassy.org.za',
     },
   ],
   ],
@@ -1144,7 +1144,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Indoneziji',
       embassyCyr: 'Амбасада Србије у Индонезији',
-      email: 'embjakarta@serbian-embassy.org',
+      email: 'consular.jakarta@mfa.rs',
     },
   ],
   ],
@@ -1155,9 +1155,9 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Камерун',
     }, [
     {
-      embassy: 'Ambasada Srbije u Nigeriji',
-      embassyCyr: 'Амбасада Србије у Нигерији',
-      email: 'serbconsabuja@gmail.com',
+      embassy: 'Ambasada Srbije u Kongu, DR',
+      embassyCyr: 'Амбасада Србије у Конгу, ДР',
+      email: 'serbambakin@gmail.com',
     },
   ],
   ],
@@ -1170,7 +1170,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Kanadi, Otava',
       embassyCyr: 'Амбасада Србије у Канади, Отава',
-      email: 'izbori2022@serbianembassy.ca',
+      email: 'izbori2023@serbianembassy.ca',
     },
     {
       embassy: 'Konzulat Srbije u Kanadi, Toronto',
@@ -1188,7 +1188,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Kataru',
       embassyCyr: 'Амбасада Србије у Катару',
-      email: 'embassyserbiaqatar@outlook.com',
+      email: 'srb.emb.qatar@mfa.rs',
     },
   ],
   ],
@@ -1201,7 +1201,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Kazahstanu',
       embassyCyr: 'Амбасада Србије у Казахстану',
-      email: 'konz.astana@yahoo.com',
+      email: 'amb.astana@mail.ru',
     },
   ],
   ],
@@ -1284,7 +1284,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -1401,7 +1401,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Južnoj Africi',
       embassyCyr: 'Амбасада Србије у Јужној Африци',
-      email: 'info@srbembassy.org.za',
+      email: 'konzul@srbembassy.org.za',
     },
   ],
   ],
@@ -1414,7 +1414,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Švedskoj',
       embassyCyr: 'Амбасада Србије у Шведској',
-      email: 'izbori22@telia.com',
+      email: 'konzul.rs@telia.com',
     },
   ],
   ],
@@ -1492,7 +1492,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Belgiji',
       embassyCyr: 'Амбасада Србије у Белгији',
-      email: 'konzularno.brisel@mfa.rs',
+      email: 'izbori.brisel@mfa.rs',
     },
   ],
   ],
@@ -1531,7 +1531,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Južnoj Africi',
       embassyCyr: 'Амбасада Србије у Јужној Африци',
-      email: 'info@srbembassy.org.za',
+      email: 'konzul@srbembassy.org.za',
     },
   ],
   ],
@@ -1557,7 +1557,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Indoneziji',
       embassyCyr: 'Амбасада Србије у Индонезији',
-      email: 'embjakarta@serbian-embassy.org',
+      email: 'consular.jakarta@mfa.rs',
     },
   ],
   ],
@@ -1609,7 +1609,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Južnoj Africi',
       embassyCyr: 'Амбасада Србије у Јужној Африци',
-      email: 'info@srbembassy.org.za',
+      email: 'konzul@srbembassy.org.za',
     },
   ],
   ],
@@ -1713,7 +1713,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Južnoj Africi',
       embassyCyr: 'Амбасада Србије у Јужној Африци',
-      email: 'info@srbembassy.org.za',
+      email: 'konzul@srbembassy.org.za',
     },
   ],
   ],
@@ -1724,9 +1724,9 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Намибија',
     }, [
     {
-      embassy: 'Ambasada Srbije u Južnoj Africi',
-      embassyCyr: 'Амбасада Србије у Јужној Африци',
-      email: 'info@srbembassy.org.za',
+      embassy: 'Ambasada Srbije u Angoli',
+      embassyCyr: 'Амбасада Србије у Анголи',
+      email: 'srb.emb.angola@mfa.rs',
     },
   ],
   ],
@@ -1752,27 +1752,27 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
         embassy: 'Ambasada Srbije u Nemačkoj, Berlin',
         embassyCyr: 'Амбасада Србије у Немачкој, Берлин',
-        email: 'izbori@botschaft-serbien.de',
+        email: 'info@botschaft-serbien.de',
     },
     {
       embassy: 'Konzulat Srbije u Nemačkoj, Diseldorf',
       embassyCyr: 'Конзулат Србије у Немачкој, Диселдорф',
-      email: 'gen.konsul@gksrbijedis.de',
+      email: 'info.dusseldorf@mfa.rs',
     },
     {
       embassy: 'Konzulat Srbije u Nemačkoj, Frankfurt',
       embassyCyr: 'Конзулат Србије у Немачкој, Франкфурт',
-      email: 'izbori@gksrbfra.de',
+      email: 'info@gksrbfra.de',
     },
     {
       embassy: 'Konzulat Srbije u Nemačkoj, Hamburg',
       embassyCyr: 'Конзулат Србије у Немачкој, Хамбург',
-      email: 'izbori2022@gkrshamburg.de',
+      email: 'info@gkrshamburg.de',
     },
     {
       embassy: 'Konzulat Srbije u Nemačkoj, Minhen',
       embassyCyr: 'Конзулат Србије у Немачкој, Минхен',
-      email: 'vizekonsul.muenchen@mfa.rs',
+      email: 'gk.muenchen@mfa.rs',
     },
     {
       embassy: 'Konzulat Srbije u Nemačkoj, Štutgart',
@@ -1842,7 +1842,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Norveškoj',
       embassyCyr: 'Амбасада Србије у Норвешкој',
-      email: 'izbori2022@serbianembassy.no',
+      email: 'konzularno@serbianembassy.no',
     },
   ],
   ],
@@ -1853,9 +1853,9 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Нови Зеланд',
     }, [
     {
-      embassy: 'Konzulat Srbije u Australiji, Sidnej',
-      embassyCyr: 'Конзулат Србије у Аустралији, Сиднеј',
-      email: 'srb.cons.sydney@mfa.rs',
+      embassy: 'Ambasada Srbije u Australiji, Kanbera',
+      embassyCyr: 'Амбасада Србије у Аустралији, Канбера',
+      email: 'srb.emb.australia@mfa.rs',
     },
   ],
   ],
@@ -1892,9 +1892,9 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Пакистан',
     }, [
     {
-      embassy: 'Ambasada Srbije u Kini, Narodna Republika, Peking',
-      embassyCyr: 'Амбасада Србије у Кини, Народна Република, Пекинг',
-      email: 'embserbia@embserbia.cn',
+      embassy: 'Ambasada Srbije u Iranu',
+      embassyCyr: 'Амбасада Србије у Ирану',
+      email: 'serbembteh@neda.net',
     },
   ],
   ],
@@ -1959,7 +1959,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Argentini',
       embassyCyr: 'Амбасада Србије у Аргентини',
-      email: 'consuladoserbia@fibertel.com.ar',
+      email: 'consuladoserbiabuenosaires@gmail.com  ',
     },
   ],
   ],
@@ -1972,7 +1972,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Argentini',
       embassyCyr: 'Амбасада Србије у Аргентини',
-      email: 'consuladoserbia@fibertel.com.ar',
+      email: 'consuladoserbiabuenosaires@gmail.com  ',
     },
   ],
   ],
@@ -2060,12 +2060,12 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Konzulat Srbije u Sjedinjenim Američkim Državama, Njujork',
       embassyCyr: 'Конзулат Србије у Сједињеним Америчким Државама, Њујорк',
-      email: 'izbori.njujork2020@mfa.rs',
+      email: 'consulate.newyork@mfa.rs',
     },
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -2104,7 +2104,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Italiji, Rim',
       embassyCyr: 'Амбасада Србије у Италији, Рим',
-      email: 'ljubomir.merdovic@mfa.rs',
+      email: ' konzularno@ambroma.com',
     },
   ],
   ],
@@ -2115,9 +2115,9 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Сао Томе и Принципе',
     }, [
     {
-      embassy: 'Ambasada Srbije u Portugaliji',
-      embassyCyr: 'Амбасада Србије у Португалији',
-      email: 'serviaemba@netcabo.pt',
+      embassy: 'Ambasada Srbije u Angoli',
+      embassyCyr: 'Амбасада Србије у Анголи',
+      email: 'srb.emb.angola@mfa.rs',
     },
   ],
   ],
@@ -2130,7 +2130,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Saudijskoj Arabiji',
       embassyCyr: 'Амбасада Србије у Саудијској Арабији',
-      email: 'embsrb.riyadh@yahoo.com',
+      email: 'srb.emb.saudiarabia@mfa.rs',
     },
   ],
   ],
@@ -2141,9 +2141,9 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Сејшели',
     }, [
     {
-      embassy: 'Ambasada Srbije u Etiopiji',
-      embassyCyr: 'Амбасада Србије у Етиопији',
-      email: 'serbambadis@yahoo.com',
+      embassy: 'Ambasada Srbije u Keniji',
+      embassyCyr: 'Амбасада Србије у Кенији',
+      email: 'consular@embassyofserbia.or.ke',
     },
   ],
   ],
@@ -2169,7 +2169,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -2182,7 +2182,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -2221,7 +2221,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Indoneziji',
       embassyCyr: 'Амбасада Србије у Индонезији',
-      email: 'embjakarta@serbian-embassy.org',
+      email: 'consular.jakarta@mfa.rs',
     },
   ],
   ],
@@ -2234,7 +2234,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Siriji',
       embassyCyr: 'Амбасада Србије у Сирији',
-      email: 'dkp.beirutconsul@gmail.com',
+      email: 'srb.emb.syria@mfa.rs',
     },
   ],
   ],
@@ -2247,7 +2247,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Slovačkoj',
       embassyCyr: 'Амбасада Србије у Словачкој',
-      email: 'consular.bratislava@mfa.rs',
+      email: 'srb.emb.slovakia@mfa.rs',
     },
   ],
   ],
@@ -2338,7 +2338,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -2364,12 +2364,12 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Konzulat Srbije u Švajcarskoj, Cirih',
       embassyCyr: 'Конзулат Србије у Швајцарској, Цирих',
-      email: 'sanja.stojanac@mfa.rs',
+      email: 'srb.cons.zurich@mfa.rs',
     },
     {
       embassy: 'Ambasada Srbije u Švajcarskoj, Bern',
       embassyCyr: 'Амбасада Србије у Швајцарској, Берн',
-      email: 'konzul@ambasadasrbije.ch',
+      email: 'consul.berne@mfa.rs',
     },
   ],
   ],
@@ -2382,7 +2382,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Južnoj Africi',
       embassyCyr: 'Амбасада Србије у Јужној Африци',
-      email: 'info@srbembassy.org.za',
+      email: 'konzul@srbembassy.org.za',
     },
   ],
   ],
@@ -2395,7 +2395,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Švedskoj',
       embassyCyr: 'Амбасада Србије у Шведској',
-      email: 'izbori22@telia.com',
+      email: 'konzul.rs@telia.com',
     },
   ],
   ],
@@ -2408,7 +2408,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -2434,7 +2434,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Indoneziji',
       embassyCyr: 'Амбасада Србије у Индонезији',
-      email: 'embjakarta@serbian-embassy.org',
+      email: 'consular.jakarta@mfa.rs',
     },
   ],
   ],
@@ -2445,9 +2445,9 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
       labelCyr: 'Танзанија',
     }, [
     {
-      embassy: 'Ambasada Srbije u Etiopiji',
-      embassyCyr: 'Амбасада Србије у Етиопији',
-      email: 'serbambadis@yahoo.com',
+      embassy: 'Ambasada Srbije u Keniji',
+      embassyCyr: 'Амбасада Србије у Кенији',
+      email: 'consular@embassyofserbia.or.ke',
     },
   ],
   ],
@@ -2486,7 +2486,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Sjedinjenim Američkim Državama, Vašington',
       embassyCyr: 'Амбасада Србије у Сједињеним Америчким Државама, Вашингтон',
-      email: 'izbori2022@serbiaembusa.org',
+      email: 'info@serbiaembusa.org',
     },
   ],
   ],
@@ -2530,7 +2530,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Konzulat Srbije u Turskoj, Istanbul',
       embassyCyr: 'Конзулат Србије у Турској, Истанбул',
-      email: 'izbori.istanbul22@gmail.com',
+      email: 'konzulat.istanbul@mfa.rs',
     },
   ],
   ],
@@ -2569,7 +2569,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Ujedinjenim Arapskim Emiratima',
       embassyCyr: 'Амбасада Србије у Уједињеним Арапским Емиратима',
-      email: 'izboriabudhabi2022@yahoo.com',
+      email: 'consular.abudhabi@mfa.rs',
     },
   ],
   ],
@@ -2595,7 +2595,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Argentini',
       embassyCyr: 'Амбасада Србије у Аргентини',
-      email: 'consuladoserbia@fibertel.com.ar',
+      email: 'consuladoserbiabuenosaires@gmail.com  ',
     },
   ],
   ],
@@ -2647,7 +2647,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Ujedinjenom Kraljevstvu',
       embassyCyr: 'Амбасада Србије у Уједињеном Краљевству',
-      email: 'izbori2022@serbianembassy.org.uk',
+      email: 'izbori.london@mfa.rs',
     },
   ],
   ],
@@ -2673,7 +2673,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Indoneziji',
       embassyCyr: 'Амбасада Србије у Индонезији',
-      email: 'embjakarta@serbian-embassy.org',
+      email: 'consular.jakarta@mfa.rs',
     },
   ],
   ],
@@ -2712,7 +2712,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Južnoj Africi',
       embassyCyr: 'Амбасада Србије у Јужној Африци',
-      email: 'info@srbembassy.org.za',
+      email: 'konzul@srbembassy.org.za',
     },
   ],
   ],
