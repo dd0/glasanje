@@ -18,7 +18,7 @@ interface CountdownInfo {
 })
 export class CountdownComponent {
 
-  readonly dueDate = new Date(1647125940000);//Changed the time to a precise UNIX time since the timezones were messing up the counter ('March 12, 2022 11:59:00');
+  readonly dueDate = new Date(1700956740000);//Changed the time to a precise UNIX time since the timezones were messing up the counter ('2023-11-25 23:59:00');
   readonly countdown$ = interval(200).pipe(map(() => this.buildCountdownInfo()));
 
   private buildCountdownInfo(): CountdownInfo {
