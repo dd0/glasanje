@@ -113,6 +113,7 @@ export class FormComponent {
   }
 
   getCountryFlagUrl(country: VotingCountry) {
+    return `assets/flags/${country.countryCode.toLowerCase()}.svg`
     //return `https://www.countryflags.io/${country.countryCode}/flat/24.png`; //countryflags.io server is down
     return `https://countryflagsapi.com/png/${country.countryCode}`;
   }
